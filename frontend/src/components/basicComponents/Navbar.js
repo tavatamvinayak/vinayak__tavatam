@@ -78,7 +78,7 @@ const Navbar = () => {
     },
     {
       name: "Twitter",
-      img: "https://cdn-icons-png.freepik.com/512/5968/5968830.png?ga=GA1.1.1113827505.1706383239&",
+      img: "https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg",
       href: "https://twitter.com/vishaltavatam",
     },
     {
