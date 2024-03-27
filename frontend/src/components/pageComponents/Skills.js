@@ -268,6 +268,11 @@ function Skills() {
                 percentage={"45"}
                 category={"Other language"}
               />
+                  <SkillsPrograss
+                name={"REDUX"}
+                percentage={"65"}
+                category={"state management"}
+              />
               <SkillsPrograss
                 name={"FRAMER-MOTION"}
                 percentage={"35"}
